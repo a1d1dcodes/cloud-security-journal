@@ -1,0 +1,7 @@
+user: john, status: SUCCESS, time: 09:01
+user: mary, status: FAILED, time: 09:03
+user: john, status: FAILED, time: 09:05
+user: peter, status: SUCCESS, time: 09:10
+user: mary, status: FAILED, time: 09:12
+user: mary, status: FAILED, time: 09:13
+user: alex, status: SUCCESS, time: 09:20
